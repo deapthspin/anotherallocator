@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anotherallocator/static/css/main.4e9c18cf.css",
+    "main.js": "/anotherallocator/static/js/main.701f2ecc.js",
+    "index.html": "/anotherallocator/index.html",
+    "main.4e9c18cf.css.map": "/anotherallocator/static/css/main.4e9c18cf.css.map",
+    "main.701f2ecc.js.map": "/anotherallocator/static/js/main.701f2ecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9c18cf.css",
+    "static/js/main.701f2ecc.js"
+  ]
+}

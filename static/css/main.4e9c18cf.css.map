@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4e9c18cf.css","mappings":"AAAA,gBAGI,cAAe,CADf,WAAY,CADZ,WAGJ","sources":["App.css"],"sourcesContent":[".addBlockButton {\r\n    width: 255px;\r\n    height: 50px;\r\n    font-size: 30px;\r\n}"],"names":[],"sourceRoot":""}
